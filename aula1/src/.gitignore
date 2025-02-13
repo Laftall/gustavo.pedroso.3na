@@ -1,0 +1,15 @@
+# Arquivos de sistema ocultos
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados pelo Cargo
+/target/
+Cargo.lock
+
+# Arquivos de cache do editor ou IDE
+.vscode/
+.idea/
+
+# Outros arquivos que não devem ser versionados
+*.log
+*.tmp

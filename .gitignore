@@ -3,7 +3,7 @@
 Thumbs.db
 
 # Arquivos gerados pelo Cargo
-/target/
+target/
 Cargo.lock
 
 # Arquivos de cache do editor ou IDE
